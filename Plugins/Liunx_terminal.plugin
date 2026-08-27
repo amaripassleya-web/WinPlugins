@@ -5,5 +5,5 @@ auther;mrmeow
 version; 1.0
 }
 andmin powershell{
-
+wsl --install
 }
